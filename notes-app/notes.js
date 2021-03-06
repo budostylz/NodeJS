@@ -1,7 +1,7 @@
 const fs = require('fs');
 const chalk = require('chalk');
 
-debugger
+
 const addNote = (title, body) => {
     const noteTaken = chalk.red.bold.inverse;
     const noteAdded = chalk.green.bold.inverse;
