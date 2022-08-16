@@ -10,3 +10,6 @@
 ## How to Use MERN Stack: A Complete Guide 
 [How to Use MERN Stack: A Complete Guide](https://www.mongodb.com/languages/mern-stack-tutorial)
 
+## Handle long-running processes in NodeJS?
+[Handle long-running processes in NodeJS?](https://stackoverflow.com/questions/32974791/handle-long-running-processes-in-nodejs)
+
